@@ -1,4 +1,4 @@
-# Blog Title :link: https://huningbo2023.github.io/github.io 
+# Blog Title :link: https://huningbo2023.github.io
 ### :page_facing_up: [0](https://huningbo2023.github.io/github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 0 
